@@ -11,7 +11,7 @@ Technology plays a vital role in day-to-day life activities which in turn made g
 
 This project proposes a "Smart Attendance System" to keep track of the attendance of school and college students digitally. Its features includes rapid attendance marking using QR code which works withing a millisecond. Unique QR code of each student is scanned and saved in database of attended students. It shows the list of students whose attendance has been marked. It has the option to visit GDSC-SITS & college webpage within the application. Currently we have been testing the app in our SITS institution only. The project's scope is to extend it for other institutions as we add more features.
 
-<img width="559" alt="sampleimages" src="">
+<img width="559" alt="sampleimages" src="https://raw.githubusercontent.com/vinaytiparadi/Android-Study-Jams-Submission-Test/main/Screenshots.jpg">
 
 <b> Functionality & Concepts used : </b>
 
