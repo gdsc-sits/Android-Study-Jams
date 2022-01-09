@@ -19,7 +19,7 @@ This project proposes a "Smart Attendance System" to keep track of the attendanc
 - Constraint Layout : Most of the activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.
 - Simple & Easy Views Design : Use of familiar audience EditText with hints and interactive buttons made it easier for students to register or sign in without providing any detailed instructions pages. Apps also uses App Navigation to switch between GDSC-SITS & College webpage.
 - RecyclerView : To present the list of attended students we used the efficient recyclerview. 
--Firebase API: We are also using the Firebase API free version (Spark Plan) for authentication purpose. In future if the user base increases we will go for the upgraded plan too.
+- Firebase API: We are also using the Firebase API free version (Spark Plan) for authentication purpose. In future if the user base increases we will go for the upgraded plan too.
 - LiveData & Room Database: We are also using LiveData to update, observe and store attendance data. After the QR code is scanned by the user, the attended is marked and added to Room Database.
 
 <b> Application Link & Future Scope : </b>
