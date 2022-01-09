@@ -21,3 +21,12 @@ This project proposes a "Smart Attendance System" to keep track of the attendanc
 - RecyclerView : To present the list of attended students we used the efficient recyclerview. 
 -Firebase API: We are also using the Firebase API free version (Spark Plan) for authentication purpose. In future if the user base increases we will go for the upgraded plan too.
 - LiveData & Room Database: We are also using LiveData to update, observe and store attendance data. After the QR code is scanned by the user, the attended is marked and added to Room Database.
+
+<b> Application Link & Future Scope : </b>
+
+The app is currently in the stable testing phase with SITS institute with a limited no. of users, You can access the app : [YOUR APP LINK HERE](either Github link or Google Play store link of published app or .apk file).
+
+We are looking forward to add more features like option to add custom subject attendance, a student login which enabled to monitor his attendance, etc.
+Once the app is fully tested and with added useful functionality, we plan to talk to neighboring colleges regarding the implementation of Smart Attendance System using our application. We aim that by next year most of the colleges and schools in our city will use Smart Attendance Application for monitoring attendance.
+
+Once the app is fully tested and functional in GNITS institute, we plan to talk to neighboring colleges also to propose this app idea and collaborate with them on this transportation service. We aim that by next year most of the colleges in our district will use Bus tracking apps to check out their bus routes and be informed all the time. Also we are planning to include emergency SOS features for students traveling in busses if they are stuck somewhere. 
