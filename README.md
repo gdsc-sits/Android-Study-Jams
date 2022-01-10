@@ -11,7 +11,7 @@ Technology plays a vital role in day-to-day life activities which in turn made g
 
 This project proposes a "Smart Attendance System" to keep track of the attendance of school and college students digitally. Its features includes rapid attendance marking using QR code which works withing a millisecond. Unique QR code of each student is scanned and saved in database of attended students. It shows the list of students whose attendance has been marked. It has the option to visit GDSC-SITS & college webpage within the application. Currently we have been testing the app in our SITS institution only. The project's scope is to extend it for other institutions as we add more features.
 
-<img width="559" alt="sampleimages" src="https://raw.githubusercontent.com/vinaytiparadi/Android-Study-Jams-Submission-Test/main/Screenshots.jpg">
+<img width="559" alt="sampleimages" src="https://raw.githubusercontent.com/gdsc-sits/Android-Study-Jams-Submission/main/Screenshots.jpg">
 
 <b> Functionality & Concepts used : </b>
 
@@ -24,7 +24,7 @@ This project proposes a "Smart Attendance System" to keep track of the attendanc
 
 <b> Application Link & Future Scope : </b>
 
-The app is currently in the stable testing phase with SITS institute with a limited no. of users, You can access the app : [Download](https://github.com/vinaytiparadi/Android-Study-Jams-Submission-Test/releases/tag/Latest).
+The app is currently in the stable testing phase with SITS institute with a limited no. of users, You can access the app : [Download](https://github.com/gdsc-sits/Android-Study-Jams-Submission/releases/tag/latest).
 
 We are looking forward to add more features like option to add custom subject attendance, a student login which enabled to monitor his attendance, etc.
 Once the app is fully tested and with added useful functionality, we plan to talk to neighboring colleges regarding the implementation of Smart Attendance System using our application. We aim that by next year most of the colleges and schools in our city will use Smart Attendance Application for monitoring attendance.
