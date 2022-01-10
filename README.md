@@ -28,3 +28,10 @@ The app is currently in the stable testing phase with SITS institute with a limi
 
 We are looking forward to add more features like option to add custom subject attendance, a student login which enabled to monitor his attendance, etc.
 Once the app is fully tested and with added useful functionality, we plan to talk to neighboring colleges regarding the implementation of Smart Attendance System using our application. We aim that by next year most of the colleges and schools in our city will use Smart Attendance Application for monitoring attendance.
+
+## Contributors
+* [Abhishek Tilwar](https://github.com/AbhishekTilwar)
+* [Sudip Bhakat](https://github.com/sudipbhakat07)
+* [Umesh Ekhande](https://github.com/Umeshekh)
+* [Shreyas Jadhav]()
+* [Vinay Tiparadi](https://github.com/vinaytiparadi)
