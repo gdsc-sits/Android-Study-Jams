@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.gdscsits">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:usesCleartextTraffic="true"
+        android:allowBackup="true"
+        android:icon="@drawable/gdsc_logo2"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/gdsc_logo2"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Educt">
+
+        <activity
+            android:name="com.example.gdscsits.ViewAttendance2"
+            android:label="@string/title_activity_attendance"
+            android:exported="false" />
+
+        <activity
+            android:name="com.example.gdscsits.AttendanceActivity"
+            android:exported="true"
+            android:label="@string/title_activity_attendance"
+            android:theme="@style/Theme.Educt.NoActionBar" />
+
+        <activity android:name="com.example.gdscsits.RegisterActivity" />
+
+
+
+
+        <activity
+            android:name="com.example.gdscsits.LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+
+        </activity>
+
+
+
+        <activity
+            android:name="com.example.gdscsits.MainActivity"
+            android:exported="true" />
+
+
+        <activity
+            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+            android:screenOrientation="portrait"
+            android:stateNotNeeded="true"
+            tools:replace="android:screenOrientation" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+
+    </application>
+
+</manifest>

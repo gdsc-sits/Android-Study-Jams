@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GDSC SITS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Take Attendance Fragment</string>
+    <string name="title_activity_attendance">Students Attendance</string>
+
+
+</resources>
