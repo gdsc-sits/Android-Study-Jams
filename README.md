@@ -1,6 +1,6 @@
 # Android-Study-Jams
 
-## Smart Attendance Application
+Smart Attendance Application
 
 <b> Problem Statement: </b>
 
