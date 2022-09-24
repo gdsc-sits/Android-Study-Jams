@@ -33,5 +33,4 @@ Once the app is fully tested and with added useful functionality, we plan to tal
 * [Abhishek Tilwar](https://github.com/AbhishekTilwar)
 * [Sudip Bhakat](https://github.com/sudipbhakat07)
 * [Umesh Ekhande](https://github.com/Umeshekh)
-* [Shreyas Jadhav](https://github.com/shreyas23dec)
 * [Vinay Tiparadi](https://github.com/vinaytiparadi)
