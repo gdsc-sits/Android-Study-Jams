@@ -24,7 +24,7 @@ This project proposes a "GDSC Community App" to keep track of the attendance of 
 
 <b> Application Link & Future Scope : </b>
 
-The app is currently in the stable testing phase with SITS institute with a limited no. of users, You can access the app : [Download](https://github.com/gdsc-sits/Android-Study-Jams-Submission/releases/tag/latest).
+The app is currently in the stable testing phase with SITS institute with a limited no. of users, You can access the app : [Download](https://github.com/gdsc-sits/Android-Study-Jams-Submission/releases/tag/latest). Reach out to us for more info.
 
 We are looking forward to add more features like option to add custom subject attendance, a student login which enabled to monitor his attendance, etc.
 Once the app is fully tested and with added useful functionality, we plan to talk to neighboring colleges regarding the implementation of Smart Attendance System using our application. We aim that by next year most of the colleges and schools in our city will use Smart Attendance Application for monitoring attendance.
